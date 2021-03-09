@@ -111,29 +111,39 @@
     **[⬆ Back to Top](#table-of-contents)**
 
 7.  ### Git:
-    $ git diff <file-name>
+    
+    ```javascript
+        $ git diff <file-name>
 
-    $ git checkout <file-name> undo changes made in file
+        $ git checkout <file-name> undo changes made in file
 
-    $ git stash - remove all changes
+        $ git stash - remove all changes
 
-    $ git clean -fx - remove untracked files
+        $ git clean -fx - remove untracked files
 
-    $ git log - 
+        $ git log - 
 
-    $ git log --all -- Display All Commits
+        $ git log --all -- Display All Commits
 
-    $ git log -3 -- View most recent commits
-
+        $ git log -3 -- View most recent commits
+    ```
+    
     Filter Commits By Author or Committer
-    $ git log --author <name>
-    $ git log --committer <name>
-
+    ```javascript
+        $ git log --author <name>
+        $ git log --committer <name>
+    ```
+    
     View All Diff of Changes for Each Commit
-    $ git log -p
-
+    ```javascript
+        $ git log -p
+    ```
+    
     View Summary of Changes for Each Commit
-    $ git log --stat
-
+    ```javascript
+        $ git log --stat
+    ```
     Help
-    $ git help
+    ```javascript
+        $ git help
+    ```
