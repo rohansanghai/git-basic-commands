@@ -1,6 +1,6 @@
 #  Most widely used Git basic commands
 
-> Click :star:if you like the project. Pull Requests are highly appreciated.
+> Click :star: if you like the project. Pull Requests are highly appreciated.
 
 ### Table of Contents
 -------------------------------------------------------------------
