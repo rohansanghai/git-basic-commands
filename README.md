@@ -75,13 +75,9 @@
 4.  ### Git: committing to a repository
     ```javascript
         $ git commit -m "Add Files"
-    ```
-
-    ```javascript
+    
         $ git reset --soft HEAD^
-    ```
-
-    ```javascript
+    
         $ git commit --amend -m <enter your message>
     ```
     **[⬆ Back to Top](#table-of-contents)**
