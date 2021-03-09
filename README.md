@@ -57,29 +57,17 @@
 
     ```javascript
         $ git add <file-name>
-    ```
-
-    ```javascript
+    
         $ git add <file-name> <another-file-name> <yet-another-file-name>
-    ```
-
-    ```javascript
+    
         $ git add .
-    ```
-
-    ```javascript
+    
         $ git add --all
-    ```
-
-    ```javascript
+    
         $ git add -A
-    ```
-
-    ```javascript
+    
         $ git add --cached <file-name>
-    ```
-
-    ```javascript
+    
         $ git reset <file-name>
     ```
     **[⬆ Back to Top](#table-of-contents)**
@@ -101,21 +89,13 @@
 5.  ### Git: pulling and pushing from and to repositories
     ```javascript
         $ git remote add origin <link>
-    ```
-
-    ```javascript
+   
         $ git push -u origin master
-    ```
-
-    ```javascript
+    
         $ git add <file-name>
-    ```
 
-    ```javascript
         $ git clone <clone URL>
-    ```
-
-    ```javascript
+    
         $ git pull
     ```
     **[⬆ Back to Top](#table-of-contents)**
@@ -123,21 +103,13 @@
 6.  ### Git: branching
     ```javascript
         $ git branch
-    ```
-
-    ```javascript
+    
         $ git branch <branch-name>
-    ```
-
-    ```javascript
+    
         $ git checkout <branch-name>
-    ```
-
-    ```javascript
+    
         $ git merge <branch-name>
-    ```
-
-    ```javascript
+    
         $ git checkout -b <branch-name>
     ```
     **[⬆ Back to Top](#table-of-contents)**
