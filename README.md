@@ -1,5 +1,4 @@
-# Most basic Git commands with example
-List of 300 VueJS Interview Questions
+#  Git most basic commands
 
 > Click :star:if you like the project. Pull Requests are highly appreciated.
 
